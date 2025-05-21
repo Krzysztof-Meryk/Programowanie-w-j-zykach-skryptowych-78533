@@ -1,0 +1,163 @@
+[
+  {
+    "author": "Adam Mickiewicz",
+    "title": "Pan Tadeusz",
+    "year": "1834",
+    "pages": 340,
+    "count": 1
+  },
+  {
+    "author": "Stanisław Lem",
+    "title": "Solaris",
+    "year": "1961",
+    "pages": 300,
+    "count": 4
+  },
+  {
+    "author": "Bolesław Prus",
+    "title": "Lalka",
+    "year": "1890",
+    "pages": 680,
+    "count": 3
+  },
+  {
+    "author": "Eliza Orzeszkowa",
+    "title": "Nad Niemnem",
+    "year": "1888",
+    "pages": 500,
+    "count": 2
+  },
+  {
+    "author": "Henryk Sienkiewicz",
+    "title": "Potop",
+    "year": "1886",
+    "pages": 950,
+    "count": 2
+  },
+  {
+    "author": "Maria Konopnicka",
+    "title": "O krasnoludkach i sierotce Marysi",
+    "year": "1896",
+    "pages": 160,
+    "count": 2
+  },
+  {
+    "author": "Witold Gombrowicz",
+    "title": "Ferdydurke",
+    "year": "1937",
+    "pages": 280,
+    "count": 3
+  },
+  {
+    "author": "Olga Tokarczuk",
+    "title": "Bieguni",
+    "year": "2007",
+    "pages": 400,
+    "count": 3
+  },
+  {
+    "author": "Olga Tokarczuk",
+    "title": "Prowadź swój pług przez kości umarłych",
+    "year": "2009",
+    "pages": 320,
+    "count": 3
+  },
+  {
+    "author": "Andrzej Sapkowski",
+    "title": "Ostatnie życzenie",
+    "year": "1993",
+    "pages": 288,
+    "count": 5
+  },
+  {
+    "author": "Andrzej Sapkowski",
+    "title": "Krew elfów",
+    "year": "1994",
+    "pages": 330,
+    "count": 4
+  },
+  {
+    "author": "Stanisław Lem",
+    "title": "Bajki robotów",
+    "year": "1964",
+    "pages": 200,
+    "count": 3
+  },
+  {
+    "author": "Tadeusz Borowski",
+    "title": "Pożegnanie z Marią",
+    "year": "1948",
+    "pages": 160,
+    "count": 2
+  },
+  {
+    "author": "Bruno Schulz",
+    "title": "Sklepy cynamonowe",
+    "year": "1934",
+    "pages": 150,
+    "count": 2
+  },
+  {
+    "author": "Zofia Nałkowska",
+    "title": "Granica",
+    "year": "1935",
+    "pages": 280,
+    "count": 2
+  },
+  {
+    "author": "Juliusz Słowacki",
+    "title": "Kordian",
+    "year": "1834",
+    "pages": 210,
+    "count": 2
+  },
+  {
+    "author": "Stefan Żeromski",
+    "title": "Ludzie bezdomni",
+    "year": "1900",
+    "pages": 360,
+    "count": 3
+  },
+  {
+    "author": "Henryk Sienkiewicz",
+    "title": "Krzyżacy",
+    "year": "1900",
+    "pages": 640,
+    "count": 3
+  },
+  {
+    "author": "Czesław Miłosz",
+    "title": "Zniewolony umysł",
+    "year": "1953",
+    "pages": 250,
+    "count": 2
+  },
+  {
+    "author": "Wisława Szymborska",
+    "title": "Koniec i początek",
+    "year": "1993",
+    "pages": 180,
+    "count": 1
+  },
+  {
+    "author": "Tadeusz Różewicz",
+    "title": "Niepokój",
+    "year": "1947",
+    "pages": 140,
+    "count": 2
+  },
+  {
+    "author": "Rafał Kosik",
+    "title": "Felix, Net i Nika oraz Gang Niewidzialnych Ludzi",
+    "year": "2004",
+    "pages": 384,
+    "count": 3
+  },
+  {
+    "author": "Małgorzata Musierowicz",
+    "title": "Kłamczucha",
+    "year": "1979",
+    "pages": 240,
+    "count": 1
+  }
+]
